@@ -14,4 +14,4 @@ def pembagian(angka1, angka2):
         return angka1 / angka2
 
 if __name__ == "__main__":
-    print('Kamu tidak bisa menjalankan file ini karena ini adalah file function, kalau mau dijalankan, jalankan pada file yang mengimport file ini')
+    print('Tidak bisa dijalankan')
