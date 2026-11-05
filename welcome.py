@@ -11,4 +11,4 @@ def aturan_program(nama):
     print(f'Halo {nama}! Operator yang tersedia:\n1. Penjumlahan (+)\n2. Pengurangan (-)\n3. Perkalian (*)\n4. Pembagian (/)')
 
 if __name__ == "__main__":
-    print('Kamu tidak bisa menjalankan file ini karena ini adalah file function, kalau mau dijalankan, jalankan pada file yang mengimport file ini')
+    welcome_massage()
